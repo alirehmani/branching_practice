@@ -8,5 +8,5 @@ const port = 3000;
 app.use(cors());
 
 app.listen(port, () => {
-  console.log(`App is listening on port ${port}`);
+  console.log(`App is listening on port and we are testing things ${port}`);
 });
